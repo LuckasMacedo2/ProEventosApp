@@ -1,0 +1,67 @@
+import { Component, EventEmitter, OnInit, Output } from '@angular/core';
+import { AbstractControlOptions, FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { Router } from '@angular/router';
+import { ValidatorField } from '@app/helpers/ValidatorField';
+import { UserUpdate } from '@app/models/UserUpdate';
+import { AccountService } from '@app/services/account.service';
+import { environment } from '@environments/environment';
+import { NgxSpinnerService } from 'ngx-spinner';
+import { ToastrService } from 'ngx-toastr';
+
+@Component({
+  selector: 'app-perfil',
+  templateUrl: './perfil.component.html',
+  styleUrls: ['./perfil.component.scss']
+})
+export class PerfilComponent implements OnInit {
+  public usuario = {} as UserUpdate;
+  public imagemURL = '';
+  public file: File;
+
+  public get ehPalestrante(): boolean {
+    return this.usuario.funcao === 'Palestrante';
+  }
+
+  constructor(private spinner: NgxSpinnerService,
+              private toastr: ToastrService,
+              private accountService: AccountService) { }
+
+  ngOnInit() {
+
+  }
+
+  public getFormValue(usuario: UserUpdate): void {
+    this.usuario = usuario;
+    if(this.usuario.imagemURL)
+      this.imagemURL = environment.apiURL + `resources/perfil/${this.usuario.imagemURL}`;
+    else
+      this.imagemURL = `./assets/img/semImagem.jpg`;
+  }
+
+  get f(): any { return ''; }
+
+  onFileChange(ev: any): void {
+    const reader = new FileReader();
+
+    reader.onload = (event: any) => this.imagemURL = event.target.result;
+
+    this.file = ev.target.files;
+    console.log(ev.target.files)
+    reader.readAsDataURL(ev.target.files[0]);
+
+    this.uploadImagem();
+  }
+
+  private uploadImagem(): void {
+    this.spinner.show();
+    this.accountService
+        .postUpload(this.file)
+        .subscribe(
+          () => this.toastr.success('Imagem atualizada com sucesso', 'Sucesso'),
+          (error: any) => {
+            this.toastr.error('Erro ao fazer o upload de imagem', 'Erro!')
+            console.log(error);
+          }
+        ).add(() => this.spinner.hide());
+  }
+}

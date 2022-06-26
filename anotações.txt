@@ -1,0 +1,227 @@
+Criar a API
+    dotnet new webapi -n ProEventos.API
+
+    Rodar a API
+        dotnet run
+        dotnet watch run
+            Vai restartando o servidor, não precisa parar o projeto ao alterá-lo para ver as alterações.
+    
+    ConfigureServices
+    Configure
+    services.AddController -> Indica que está trabalhando com a arquitetura MVC
+
+    HTTP: Cliente requisita ao servidor (request)
+                                         Verbos: header, content
+          Servidor retorna o response
+          Request (cliente envia ao servidor)
+          Verbo = ação a ser executada no servidor
+          Header = metadado sobre o request
+          Conteúde = conteúdo referente à requisição
+          Response (Servidor envia ao cliente)
+          Status code = código da operação
+          Cabeçalho = Metadados da resposta 
+          Conteúdo = Retorno do processamento
+    JSON - JavaScript Object Notation
+        Regras para o armazenamento e troca de informações em texto
+        Formato
+        {
+            "nome" : "valor",
+            ...
+        }
+
+        API pode ser feita em qualquer linguagem
+        
+    ------------------------------------------------------------------------------
+    Entity Framework Core: ORM - Object Relational Mapping.
+        Ferramenta associada a ferramenta. Não é considerada mais uma ferramenta
+        Instalando: dotnet tool install --global dotnet-ef
+    Criar uma migration
+        dotnet ef migrations add init -o Data/Migrations
+    Gerar um update no banco
+        dotnet ef database update 
+        
+    ------------------------------------------------------------------------------
+
+
+    Arquivo .csproj: Mostra as referências do projeto
+
+    Configuration: abstração dos arquivos de configuração.
+
+    Contexto: Contexto usado para criar a tabela de eventos
+
+    dotnet tool list --global: lista as ferramentas instaladas
+
+    Angular
+        Npm = node package manager
+        Extensão: Angular essentials
+                  Angular files
+                  Auto close tags
+                  Bracket Pair Colorizer 2
+                  Color Highlight
+                  Git Lens
+                  Path Intellisense
+                  tslint: padroniziação e melhores práticas de TypeScript
+
+        Usar outras versões do node: nvm -> node verion manage
+        npm install -g @angular/cli
+        criar o projeto em angular: ng new ProEventos-App
+
+        SCSS, Sass, Less e Stylus -> forma de escrever o CSS. Neste projeto foi utilizada o SCSS.
+
+        ng serve - inicia a aplicação. Comando principal para iniciar uma aplicação
+
+        Angular.json:
+            index: primeiro arquivo lido na aplicação
+            app-root: componente angular
+            Não é comum referenciar typescript no html
+            TypeScript = js processado
+            AppModel =: 
+            Module: declara os componentes, imports, providers e bootstrap
+            Um componente possui: html, css e typescript.
+            Forma padrão de gerar componente    
+                ng generate component localizacao nomeComponente ou
+                ng g c localizacao nomeComponente
+            
+            Os componentes criados devem ser adicionados no app-modules
+            Diretivas = recursos que permitem manipular o HTML
+            {{}} -> interpolação
+
+            Erro CORS -> startup adicionar o .AddCors
+
+            Instalar o fontawesome: npm install --save @fortawesome/fontawesome-free
+            Instalar o angular bootstrap: npm install ngx-bootstrap --save
+            Instalar o bootstrap: npm install bootstrap@4
+
+
+            .gitignore: o que não enviar ao github
+            No projeto angular, evitar de colocar jQuery
+
+            Diretivas estruturais: iniciam com ng   
+                Ex.: if -> *ngIf
+                    for -> *ngFor
+                ...
+            Binding e interpolações:
+                interpolação: {{}} 
+                    Obs.: pode usar javascript dentro da interpolação
+                pipe | -> filtro
+                    Ex.: mostrar como json: {{eventos | json}}
+            
+            Para usar uma imagem no Angular a mesma deve ser colocada no assets
+
+            Entre colchetes é um property binding
+            [()] -> todo mundo
+
+            Two Way DataBinding: binding em duas vias.
+                As modificações são refletidas nos dois locais
+            
+            ** Ao criar uma propriedade no HTML ela existirá lá, mesmo não existindo uma propriedade equivalente no TypeScript ** Isso pode gerar problema
+            
+
+            Múltiplas camadas
+                A dvisão do projeto em camadas permite dividir as responsabildiades do projeto  
+                Cada camada é responsável por se manter com a responsabilidade declara
+
+                Domínio do software
+                    Principal: Evento
+                               Palestrante
+                               PalestranteEvento
+                               Lote (forma que o evento é vendido)
+                               RedeSocial
+                
+                ** No entityFramework ao colocar a palavra ID no início de uma propriedade ele reconhece que é uma chave primária
+                ou estrangeira de forma automática 
+                Isso também pode ser feito com DataAnnotation **
+
+                Criar as migtrations
+                dotnet ef migrations add Initial -p ProEventos.Persistence -s ProEventos.API
+                Criar o banco de dados                
+                dotnet ef database update -s ProEventos.API
+                
+                ** dotnet restore -> mostra os erros de compilação **
+
+                IActionResult -> permite trabalhar com os status code do HTTP
+
+                Em tabelas com duas chaves estrngeiras, deve ser avisado ao entityFramework para que seja deletado
+                
+                Services -> Encapsular a chamada dos métodos remotos em um serviço
+                No angular  
+                    Service: Classe, servir a outros componentes. Pode ser injetado
+                    No angular: injetar o serviço no componente
+                    ** app.module -> equivalente ao startup / program do dotnet **
+
+                @Injectable({ 
+                    providedIn: 'root'
+                }) -> Diz que a classe pode ser injetada em qualquer serviço
+
+                Formas de injetar componente:
+                Na classe:
+                    @Injectable({ 
+                        providedIn: 'root'
+                    })
+                No componente:
+                    providers: [Classe]
+                No app.module (mais comum)
+                    No arquivo arquivo app.modulo.ts            
+                    Services que estão sendo disponibilizados para todos os componentes
+                
+                Se inscrever em um observable gasta memória, pois você só é desescrito
+                caso finalize a aplicação ou desencreva expliciatamenmatTabLabel
+
+                app-routing
+                    Adiciona as rotas
+
+        Links:
+        https://bootsnipp.com/
+        https://bootswatch.com/ -> Temas para o bootstrap
+
+        d-sm-block -> tratar resposividade
+        <router-outlet></router-outlet> -> indica que o componente tem subrotas
+
+        strincTemplate: checa o html de acordo com HTML, auxilia a resolver problemas de tipo
+
+        Reactive Forms: O formulário possui um binding no typescript. No ts diz como o HTML se comportará ao ocorrer determinada ação
+        ngClass -> gera a reação
+
+
+        DTOs e DataAnnotation
+        DTO = Data Transfer Object
+        Deixa de expor tudo o que o dominio possui
+        AutoMapper 
+        Desvincular a api do dominio
+
+        Ao dar um subscribe -> a incrição continua mesmo depois de excluir o componente
+
+        FormControlName -> cria um biding entre o form e o objeto 
+
+    Asp.NET Identity
+        Autenticar
+        Versão 5.0.401 -> possui muitos bugs
+        Role -> Papel, associação de responsabildiade
+
+    Claims
+        São afirmações sobre o usuário
+        Um token necessita de uma chave para criptografa-lo e descriptografa-lo
+        
+
+    JWT = Json Web token
+        JWT.IO
+        Bearer = portador do JWT
+
+    Método de Extensão  
+        Utiliza o token para pegar o usuário
+        O método e a classe criada devem ser estáticos
+
+    Gerando o interceptor
+        ng g interceptor interceptors/jwt
+
+    Gerando o guardião de rota que impede que a rota seja acessada por usuários não logados
+        Can Activate
+    
+    Um service é sempre atualizado quando se dá um refresh na tela
+
+    Classes de extenão tem que ser estáticas
+
+    @Output
+
+    subscribe
+        

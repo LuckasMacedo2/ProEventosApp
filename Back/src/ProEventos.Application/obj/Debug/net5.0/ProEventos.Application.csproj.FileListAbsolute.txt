@@ -1,0 +1,34 @@
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.deps.json
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ref\ProEventos.Application.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.pdb
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.AssemblyReference.cache
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfoInputs.cache
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfo.cs
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CoreCompileInputs.cache
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ref\ProEventos.Application.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.pdb
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.pdb
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.pdb
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CopyComplete
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.deps.json
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.pdb
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.pdb
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.pdb
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.AssemblyReference.cache
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfoInputs.cache
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfo.cs
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CoreCompileInputs.cache
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CopyComplete
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ref\ProEventos.Application.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.pdb
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Application\bin\Debug\net5.0\ref\ProEventos.Application.dll

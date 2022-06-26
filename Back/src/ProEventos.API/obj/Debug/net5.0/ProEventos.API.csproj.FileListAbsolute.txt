@@ -1,0 +1,158 @@
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\appsettings.Development.json
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\appsettings.json
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.exe
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.deps.json
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.runtimeconfig.json
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.runtimeconfig.dev.json
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ref\ProEventos.API.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.pdb
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj.AssemblyReference.cache
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.AssemblyInfoInputs.cache
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.AssemblyInfo.cs
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj.CoreCompileInputs.cache
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cs
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.Manifest.cache
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\scopedcss\bundle\ProEventos.API.styles.css
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.RazorTargetAssemblyInfo.cache
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj.CopyComplete
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ref\ProEventos.API.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.pdb
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.genruntimeconfig.cache
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Humanizer.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.pdb
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.pdb
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.pdb
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.xml
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\AutoMapper.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\appsettings.Development.json
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\appsettings.json
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.exe
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.deps.json
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.runtimeconfig.json
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.runtimeconfig.dev.json
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ref\ProEventos.API.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.pdb
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\AutoMapper.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Humanizer.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.pdb
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.pdb
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.pdb
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj.AssemblyReference.cache
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.AssemblyInfoInputs.cache
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.AssemblyInfo.cs
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj.CoreCompileInputs.cache
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cs
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.Manifest.cache
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.xml
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\scopedcss\bundle\ProEventos.API.styles.css
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.RazorTargetAssemblyInfo.cache
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj.CopyComplete
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ref\ProEventos.API.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.pdb
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.genruntimeconfig.cache
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

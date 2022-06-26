@@ -1,0 +1,24 @@
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.deps.json
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Domain\bin\Debug\net5.0\ref\ProEventos.Domain.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.pdb
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.AssemblyReference.cache
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfoInputs.cache
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfo.cs
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.CoreCompileInputs.cache
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ref\ProEventos.Domain.dll
+F:\Projects\FullStack_Developer\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.pdb
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.deps.json
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.pdb
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.AssemblyReference.cache
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfoInputs.cache
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfo.cs
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.CoreCompileInputs.cache
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ref\ProEventos.Domain.dll
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.pdb
+F:\Projects\Projetos - Estudo\FullStack Developer\ProEventos\Back\src\ProEventos.Domain\bin\Debug\net5.0\ref\ProEventos.Domain.dll
